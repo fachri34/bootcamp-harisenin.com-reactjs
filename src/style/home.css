@@ -1,0 +1,21 @@
+.home{
+    background-color: #fff;
+    height: 90vh;
+    top: 0;
+    padding: 100px 0 100px 0;
+    background-image: url('../asset/image/preview.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrap-text, .judul{
+    color: white;
+    font-size: 60px;
+}
+
+.image{
+    position: absolute;
+    right:200px;
+    top: 400px;
+}
+

@@ -1,0 +1,12 @@
+.kontak{
+    height: 90vh;
+    top: 0;
+    padding: 100px 0 100px 0;
+    background-image: url('../asset/image/preview.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
